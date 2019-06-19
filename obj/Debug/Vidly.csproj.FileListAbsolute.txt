@@ -152,3 +152,9 @@ F:\Programs I made\C#\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompiler
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+F:\Programs I made\C#\Vidly\Vidly\bin\EntityFramework.dll
+F:\Programs I made\C#\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+F:\Programs I made\C#\Vidly\Vidly\bin\EntityFramework.xml
+F:\Programs I made\C#\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
