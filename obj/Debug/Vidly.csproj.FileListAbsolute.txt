@@ -233,3 +233,4 @@ F:\Programs I made\C#\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
 F:\Programs I made\C#\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptype.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipTypes.resources
