@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
-using Microsoft.Owin.Security;
+using Microsoft.AspNetCore.Http.Authentication;
 
 namespace Vidly.Models
 {
