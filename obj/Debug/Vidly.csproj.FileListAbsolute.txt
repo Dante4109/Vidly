@@ -237,3 +237,6 @@ F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipT
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
