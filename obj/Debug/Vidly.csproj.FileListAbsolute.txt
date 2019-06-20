@@ -235,3 +235,5 @@ F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCu
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptype.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipTypes.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
