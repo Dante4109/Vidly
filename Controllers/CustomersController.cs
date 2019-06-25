@@ -50,7 +50,8 @@ namespace Vidly.Controllers
 
 
             _context.SaveChanges();
-            return View();
+
+            return RedirectToAction("Index", "Customers"); 
         }
 
 
