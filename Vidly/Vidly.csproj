@@ -301,11 +301,12 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
+    <Compile Include="Models\Min18YearsIfAMember.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="View Models\CustomerFormViewModel.cs" />
-    <Compile Include="View Models\MovieFormViewModel.cs" />
-    <Compile Include="View Models\RandomMovieVIewModel.cs" />
+    <Compile Include="View_Models\CustomerFormViewModel.cs" />
+    <Compile Include="View_Models\MovieFormViewModel.cs" />
+    <Compile Include="View_Models\RandomMovieVIewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
