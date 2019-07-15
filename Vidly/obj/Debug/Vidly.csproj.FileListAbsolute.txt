@@ -245,7 +245,7 @@ F:\Programs I made\C#\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
 F:\Programs I made\C#\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
 F:\Programs I made\C#\Vidly\Vidly\bin\System.Web.Http.xml
 F:\Programs I made\C#\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
-F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 F:\Programs I made\C#\Vidly\Vidly\bin\AutoMapper.dll
 F:\Programs I made\C#\Vidly\Vidly\bin\AutoMapper.pdb
 F:\Programs I made\C#\Vidly\Vidly\bin\AutoMapper.xml
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
