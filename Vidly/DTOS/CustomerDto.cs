@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using Vidly.Models;
 
-namespace Vidly.DTOS
+namespace Vidly.Dtos
 {
     public class CustomerDto
     {

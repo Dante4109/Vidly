@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using AutoMapper;
-using Vidly.DTOS;
+using Vidly.Dtos;
 using Vidly.Models;
 
 namespace Vidly.App_Start

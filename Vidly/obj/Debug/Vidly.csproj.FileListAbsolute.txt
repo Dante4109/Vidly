@@ -273,3 +273,5 @@ F:\Programs I made\C#\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.Seedusers.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicensetoApplicationuser.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
