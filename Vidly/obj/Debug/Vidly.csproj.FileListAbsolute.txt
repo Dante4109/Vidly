@@ -275,3 +275,4 @@ F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseto
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.FixErro.resources

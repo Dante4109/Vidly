@@ -317,6 +317,10 @@
     <Compile Include="Migrations\201907211706308_AddNumberAvailableToMovie.Designer.cs">
       <DependentUpon>201907211706308_AddNumberAvailableToMovie.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201907240346242_FixErro.cs" />
+    <Compile Include="Migrations\201907240346242_FixErro.Designer.cs">
+      <DependentUpon>201907240346242_FixErro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\Rental.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -901,6 +905,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201907211706308_AddNumberAvailableToMovie.resx">
       <DependentUpon>201907211706308_AddNumberAvailableToMovie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907240346242_FixErro.resx">
+      <DependentUpon>201907240346242_FixErro.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
