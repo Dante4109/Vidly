@@ -22,7 +22,7 @@
 
 @section scripts
 {
-<script>
+    <script>
     $(document).ready(function () {
         var customers = new Bloodhound({
             datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
@@ -33,15 +33,14 @@
             }
         });
 
-        $('#customer .typeahead').typeahead({
+        $('#customer').typeahead({
             minlength: 3,
             highlight: true
         }, {
-            name: 'customers',
-            display: 'name',
-            source: customers
+                name: 'customers',
+                display: 'name',
+                source: customers
+            });
         });
-
-    }
-</script>
+    </script>
 }
