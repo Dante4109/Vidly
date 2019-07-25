@@ -254,6 +254,7 @@ F:\Programs I made\C#\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
 F:\Programs I made\C#\Vidly\Vidly\bin\Newtonsoft.Json.xml
 F:\Programs I made\C#\Vidly\Vidly\bin\Antlr3.Runtime.pdb
 F:\Programs I made\C#\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptype.resources
@@ -275,4 +276,3 @@ F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.dll
 F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.pdb
-F:\Programs I made\C#\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
