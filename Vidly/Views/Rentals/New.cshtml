@@ -1,11 +1,13 @@
-﻿
+﻿@model dynamic
+
+
 @{
     ViewBag.Title = "New Rental Form";
 }
 
 <h2>New Rental Form</h2>
 
-<form id="NewRental">
+<form id="newRental">
 
     <div class="form-group">
         <label>Customer</label>
@@ -27,12 +29,11 @@
         </div>
     </div>
 
-        <button class="btn btn-primary">Submit</button>
+    <button class="btn btn-primary">Submit</button>
 </form>
 
 @section scripts
 {
-    @Scripts.Render("~/bundles/jqueryval")
     <script>
         $(document).ready(function () {
             var vm = {
@@ -46,6 +47,7 @@
                     wildcard: '%QUERY'
                 }
             });
+
             $('#customer').typeahead({
                 minLength: 3,
                 highlight: true
@@ -56,7 +58,6 @@
                 }).on("typeahead:select", function (e, customer) {
                     vm.customerId = customer.id;
                 });
-
             var movies = new Bloodhound({
                 datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
                 queryTokenizer: Bloodhound.tokenizers.whitespace,
@@ -65,6 +66,7 @@
                     wildcard: '%QUERY'
                 }
             });
+
             $('#movie').typeahead({
                 minLength: 3,
                 highlight: true
@@ -78,22 +80,39 @@
                     vm.movieIds.push(movie.id);
                 });
 
-            $("#newRental").submit(function (e) {
-                e.preventDefault();
+            //$("#newRental").submit(function (e) {
+            //    e.preventDefault();
+            //    $.ajax({
+            //        url: "/api/newRentals",
+            //        method: "post",
+            //        data: vm
+            //    })
+            //        .done(function () {
+            //            console.log("done");
+            //        })
+            //        .fail(function () {
+            //        });
+            //});
+            $("#newRental").submit(function ( event ) {
+                alert("Handler for .submit() called.");
+                event.preventDefault();
 
                 $.ajax({
                     url: "/api/newRentals",
                     method: "post",
                     data: vm
                 })
-                    .done(Functions() {
-                        toastr.success("Rentals successfully recorded.");
+                    .done(function () {
+                        console.log("done");
                     })
-                    .fail(Functions() {
-                        toastr.error("Something unexpected happened!.");
-                    }); 
+                    .fail(function () {
+                        console.log("fail");
+                    });
+
             });
+
         });
     </script>
 }
+
 
